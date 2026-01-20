@@ -269,10 +269,10 @@ The Blogger theme’s base XML and dynamic tags belong to Google LLC. All custom
 <Variable name="footer.copyright.bg" description="Footer Copyright Background Color" type="color" default="#101121" value="#101121"/>
 </Group>
 <Group description="Theme Fonts" selector="body">
-<Variable name="main.font" description="Site Font" type="font" family="Raleway" default="normal 400 14px $(family)" value="normal 400 14px $(family)"/>
-<Variable name="title.font" description="Title Font" type="font" family="Raleway" default="normal 400 14px $(family)" value="normal 400 14px $(family)"/>
-<Variable name="meta.font" description="Meta Font" type="font" family="Raleway" default="normal 400 14px $(family)" value="normal 400 14px $(family)"/>
-<Variable name="text.font" description="Text Font" type="font" family="Raleway" default="normal 400 14px $(family)" value="normal 400 14px $(family)"/>
+<Variable name="main.font" description="Site Font" type="font" family="Arial, sans-serif" default="normal 400 14px $(family)" value="normal 400 14px $(family)"/>
+<Variable name="title.font" description="Title Font" type="font" family="Arial, sans-serif" default="normal 400 14px $(family)" value="normal 400 14px $(family)"/>
+<Variable name="meta.font" description="Meta Font" type="font" family="Arial, sans-serif" default="normal 400 14px $(family)" value="normal 400 14px $(family)"/>
+<Variable name="text.font" description="Text Font" type="font" family="Arial, sans-serif" default="normal 400 14px $(family)" value="normal 400 14px $(family)"/>
 </Group>
 <Group description="Theme Widths" selector="body">
 <Variable name="outerContainer.width" description="Theme Body Width" type="length" default="1145px" min="900px" max="1600px" value="1145px"/>
