@@ -1563,8 +1563,10 @@ body#layout #json > h4:after{content:' - Set Pagination Posts and Text'}
 
   
 </b:if>
-<!-- Font Awesome Brands -->
-<link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/brands.min.css' rel='stylesheet'/>
+<link as='style' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/brands.min.css' onload='this.onload=null;this.rel=&apos;stylesheet&apos;' rel='preload'/>
+<noscript>
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/brands.min.css' rel='stylesheet'/>
+</noscript>
 </b:if>
 </b:includable>
     <b:includable id='widget-title'>
