@@ -141,7 +141,8 @@ a.entry-title-link:lang(ur),
 div.random-summary,
 a.entry-title-link[dir=&quot;rtl&quot;] {
   font-family: &#39;Gulzar&#39;, serif !important;
-  line-height: 1.6;
+  line-height: 2;
+  font-display: swap;
 }
 </style>
 
