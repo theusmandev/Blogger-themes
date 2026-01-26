@@ -12,7 +12,29 @@
 }
 </style>
 
-  
+ <style>
+/* Ad Unit Styling */
+.unb-ad-container-101 {
+    margin: 25px 0;
+    text-align: center;
+    min-height: 280px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
+    padding: 10px 0;
+}
+
+.ad-label-101 {
+    color: #999999;
+    font-size: 11px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: Arial;
+}
+</style>  
+   
+   
   
   <meta content='max-image-preview:large' name='robots'/>
 
@@ -3789,12 +3811,13 @@ var SB_Engine = {
   </div>
 </b:includable>
         </b:widget>
-        <b:widget id='HTML3' locked='false' title='' type='HTML' visible='true'>
+        <b:widget id='HTML3' locked='false' title='Advertisement' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<ins class="adsbygoogle"
+            <b:widget-setting name='content'><![CDATA[<!-- sidebar_1 -->
+<ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-5894840239851478"
-     data-ad-slot="5601274404"
+     data-ad-slot="5639208280"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 <script>
